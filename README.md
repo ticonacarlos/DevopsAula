@@ -1,4 +1,4 @@
 # DevopsAula
-Aula devops FIT
-Carlos Diego Ticona Arias
-RA 1900912       BD
+Aula devops FIT<br/>      
+Carlos Diego Ticona Arias<br/>
+RA 1900912  BD<br/>
